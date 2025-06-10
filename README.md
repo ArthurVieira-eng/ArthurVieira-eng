@@ -23,24 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurVieira-eng&show_icons=true&theme=radical&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVieira-eng&layout=compact&theme=radical" height="180"/>
 </p>
-
----
-
-### 📈 Atividade no GitHub
-
-<!-- Gráfico de Contribuições (heatmap animado) -->
-
-<!-- Gráfico de Contribuições (heatmap confiável, sem animação) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurVieira-eng&theme=radical" alt="Resumo de Contribuições"/>
 </p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurVieira-eng&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVieira-eng&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p>
-
 <!-- GitHub Streaks -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ArthurVieira-eng&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
@@ -65,8 +50,8 @@
 
 ### 📁 Meus Projetos Favoritos
 
-- 🎯 [Chatbot GTA RP](https://github.com/ArthurVieira-eng/chatbot-gta-rp) – Chatbot educativo para iniciantes em GTA RP  
-- 🩺 [Agenda Médica](https://github.com/ArthurVieira-eng/agenda-medica) – Sistema de cadastro de médicos, pacientes e agendamento de consultas com Django e Tkinter
+- 🎯 [Chatbot GTA RP](https://github.com/ArthurVieira-eng/Chat-Help.git) – Chatbot educativo para iniciantes em GTA RP  
+- 🩺 [Agenda Médica](https://github.com/ArthurVieira-eng/Cadastro_Agendamento_Medico.git) – Sistema de cadastro de médicos, pacientes e agendamento de consultas com Django e Tkinter
 
 ---
 
