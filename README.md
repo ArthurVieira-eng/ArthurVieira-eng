@@ -11,8 +11,9 @@
 ---
 ### 📚 Atualmente estou estudando
 
+- Utilização de Python para automatização de tarefas. 
 - Estruturas de dados e algoritmos com JavaScript
-- Django Rest Framework para APIs robustas
+- Integração de APIs. 
 - Integração com banco de dados SQL (MySQL)
 
 ---
@@ -55,8 +56,8 @@
 
 ### 📫 Contato
 
-- Email: arthurv.o.2507@gmail.com  
-- LinkedIn: [Arthur Vieira](https://www.linkedin.com/in/arthur-vieira-arruda-de-oliveira-769461312)
+- ✉️ Email: arthurv.o.2507@gmail.com  
+- 🔗 LinkedIn: [Arthur Vieira](https://www.linkedin.com/in/arthur-vieira-arruda-de-oliveira-769461312)
 
 ---
 
