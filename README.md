@@ -47,7 +47,7 @@
 </p>
 
 ---
-
+<!--
 ### 🏆 Títulos e Conquistas
 
 - 🧠 Finalista na Maratona de Programação Interna da Faculdade (Ano, se aplicável)
@@ -56,7 +56,7 @@
 - 🎓 Certificado em Estrutura de Dados com Python pela [Plataforma Y]
 - 🔍 100+ contribuições no GitHub em menos de 3 meses
 - 🚀 Primeiro projeto freelance entregue com sucesso (Agenda Médica)
-
+-->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArthurVieira-eng&theme=darkhub&rank=A,AA,AAA" />
 </p>
