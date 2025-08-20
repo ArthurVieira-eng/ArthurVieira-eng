@@ -51,7 +51,7 @@
 
 - 🎯 [Chatbot GTA RP](https://github.com/ArthurVieira-eng/Chat-Help.git) – Chatbot educativo para iniciantes em GTA RP  
 - 🩺 [Agenda Médica](https://github.com/ArthurVieira-eng/Cadastro_Agendamento_Medico.git) – Sistema de cadastro de médicos, pacientes e agendamento de consultas com Django e Tkinter
-
+- 🔭 [Adesão Medicamentos](https://github.com/ArthurVieira-eng/HackCidadao_Ades-oSaude.git) – Sistema que visa melhorar a adesão de idosos a medicamentos 
 ---
 
 ### 📫 Contato
